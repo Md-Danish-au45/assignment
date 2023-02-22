@@ -36,7 +36,7 @@ let n = 198
           
         }        
  }
-// if you want to run the code then you need to install npm i PromptSync
+// if you want to run the code then you need to install npm i Prompt-Sync
 
 // -----------------------------------------------------------------------------------------
 
